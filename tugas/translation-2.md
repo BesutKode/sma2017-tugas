@@ -41,8 +41,8 @@ Pada wiki ada halaman "[Weblate](https://github.com/BesutKode/uni-task-1/wiki/We
 mengenai layanan-layanan weblate.
 Dua layanan weblate terbesar yang di dalamnya terdapat beragam proyek yang tersambung dengan repo GitHub adalah:
 
-- https://hosted.weblate.org/
-- https://l10n.opensuse.org/
+- https://hosted.weblate.org/ [proyek](https://hosted.weblate.org/projects/)
+- https://l10n.opensuse.org/ [proyek](https://l10n.opensuse.org/projects/)
 
 ## Daftarkan proyek Anda
 
