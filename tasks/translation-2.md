@@ -53,3 +53,26 @@ projects connected to GitHub repositories are:
 
 - https://hosted.weblate.org/ [projects](https://hosted.weblate.org/projects/)
 - https://l10n.opensuse.org/ [projects](https://l10n.opensuse.org/projects/)
+
+### Register your project
+
+Only one participant may work on a GitHub repository at a time.
+This is to avoid multiple conflicting changes.
+
+Once you have found a project with technical bugs, first search `<x>`
+to check if someone else has already chosen the same project.
+
+If nobody else has already selected the project you found,
+do `<x>` to register that you are working on the project.
+
+If someone else has registered the repository, then you must
+not choose it, or you will be eliminated.
+
+## Fix 10 bugs
+
+1. Fix the translation bugs in the repository
+2. Give _star_ to the repo
+
+If you do not find and fix the 10 problematic messages in
+your first registered repository, you can choose another repository
+and repeat it until you have successfully fixed 10 messages.
