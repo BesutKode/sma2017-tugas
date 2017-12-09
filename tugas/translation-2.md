@@ -51,6 +51,8 @@ Hal ini diberlakukan untuk menghindari berbagai perubahan yang mungkin bentrok.
 
 Jika orang lain telah mendaftarkan repositori tersebut, maka Anda harus tidak memilihnya, atau Anda akan dieliminasi.
 
+## Perbaiki 10 bug
+
 1. Perbaiki bug-bug terjemahan yang ada pada repositori tersebut
 2. Berikan _Star_ pada repo
 
