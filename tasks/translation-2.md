@@ -76,3 +76,17 @@ not choose it, or you will be eliminated.
 If you do not find and fix the 10 problematic messages in
 your first registered repository, you can choose another repository
 and repeat it until you have successfully fixed 10 messages.
+
+## Example
+
+
+The [sample task](https://wikimedia-id.github.io/besutkode/university-sample-task-1-en.html)
+has some background about the phpMyAdmin localisation project.
+
+The participants who completed that sample task can be seen at
+[`id.po`](https://github.com/phpmyadmin/localized_docs/commits/master/po/id.po).
+
+Examples of small fixes can also be seen there, such as:
+
+- https://github.com/phpmyadmin/localized_docs/commit/9cc7914fe0ddc8caa90ca5da32150442de2561e4#diff-ef37f181f82218fc93bce3f96e620e4d
+- https://github.com/phpmyadmin/localized_docs/commit/877c28f9f859a4806b1556764be697d0aab0501c#diff-ef37f181f82218fc93bce3f96e620e4d
