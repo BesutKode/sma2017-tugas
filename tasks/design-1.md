@@ -63,7 +63,7 @@ the avatar you uploaded on Gravatar, and it will not appear on other websites.
 Gravatar uses the address email to identify the avatar the be used on other
 websites.
 
-## Referenses
+## References
 
 1. https://www.tineye.com/
 2. https://en.gravatar.com/support/
